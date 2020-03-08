@@ -1,2 +1,2 @@
-# MyListViewCRUDSQLiteInterfazUsuarioEsp
-Codigo en Ingles, Interfaz en Ezpañol
+# MyListViewCRUDSQLite
+ListView-CRUD-SQLite-AndroidStudio
